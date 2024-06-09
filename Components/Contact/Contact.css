@@ -1,0 +1,21 @@
+.contact {
+    padding: 50px;
+  }
+  
+  .contact form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact label {
+    margin-bottom: 10px;
+  }
+  
+  .contact button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #282c34;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }

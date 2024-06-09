@@ -1,0 +1,16 @@
+.about {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  .about img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .about-text {
+    max-width: 600px;
+  }
